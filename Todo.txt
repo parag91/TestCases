@@ -1,0 +1,10 @@
+> A junit application Uses jUnit4
+> Firefox version : latest (56.0)
+> geckodriver.exe Paste it on E:\Automation\PTA\geckodriver\geckodriver.exe (geckodriver.exe attached)
+> import one jar file (selenium-server-standalone-3.4.0.jar) (Attached)
+
+to change 
+xpath & Message at line 59 & 136
+
+To run 
+Go to Testcase.java -> Run as-> JUnit Test
